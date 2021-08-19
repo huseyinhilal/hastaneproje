@@ -1,1 +1,1 @@
-# hastaneproje
+C# Form Uygulaması olarak geliştirilmiş bir randevu kayıt sistemidir. Egzersiz olması amacıyla yapılmıştır. Veri tabanı yedeği proje içerisinde yer almaktadır. Veri tabanı yedeği kurulduktan sonra sqlbağlantısı.cs dosyası içerisindeki veri tabanı bağlantı adresi programın kurulu olduğu bilgisayara göre ayarlanarak proje çalıştırılabilir.
